@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "react-native": "^0.3.11"
+  }
+}

@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "a duoshuo directive of React Native",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:duoshuo/react-native-duoshuo.git"
@@ -20,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/duoshuo/react-native-duoshuo/issues"
   },
-  "homepage": "https://github.com/duoshuo/react-native-duoshuo"
+  "homepage": "https://github.com/duoshuo/react-native-duoshuo",
+  "dependencies": {
+    "react-native": "^0.3.1"
+  }
 }
